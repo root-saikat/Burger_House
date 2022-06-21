@@ -605,6 +605,10 @@ footer{
     .slicknav_menu .slicknav_menutxt {
         display: none;
     }
+    .slicknav_menu .slicknav_icon {
+        float: none;
+        margin: 0;
+    }
     .header-top{
         flex-direction: column;
         gap: 25px;
