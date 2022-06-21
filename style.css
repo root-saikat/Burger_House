@@ -632,9 +632,10 @@ footer{
         flex-direction: column;
         gap: 35px;
     }
-    .card-item.o1 img {
-        margin-left: 25px;
+    .card-item.o1 img , .t3 img {
+        margin-left: 0;
     }
+
     .single-slide-item {
         flex-direction: column-reverse;
         gap: 15px;
