@@ -572,6 +572,9 @@ footer{
 
 
 @media only screen and (max-width: 675px){
+    .container{
+        overflow-x: hidden;
+    }
     header{
         padding: 10px 10px;
     }
