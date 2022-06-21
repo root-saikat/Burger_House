@@ -346,7 +346,7 @@ section.events-carousel .owl-dots button.active {
 
 section.events-carousel .owl-dots {
     position: absolute;
-    bottom: 30px;
+    bottom: 0;
 }
 
 
