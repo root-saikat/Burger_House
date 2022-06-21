@@ -602,6 +602,9 @@ footer{
         background: black;
         text-align: center;
     }
+    .slicknav_menu .slicknav_menutxt {
+        display: none;
+    }
     .header-top{
         flex-direction: column;
         gap: 25px;
