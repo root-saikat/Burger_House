@@ -546,6 +546,7 @@ footer{
     .reservation{
         padding: 50px 0;
         background-size: contain;
+        background-position: center;
     }
     .card-item p{
         font-size: 13px;
