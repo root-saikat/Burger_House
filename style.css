@@ -712,3 +712,16 @@ footer{
     }
 
 }
+
+@media screen and (min-width: 1700px){
+  .header-content {
+    justify-content: space-between;
+  }
+  .header-content h1 {
+    line-height: normal;
+  }
+  .menu-card-items {
+    justify-content: space-between;
+  }
+  
+}
